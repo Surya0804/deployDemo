@@ -2,9 +2,9 @@ server:
   port: 2000
 spring:
   datasource:
-    url: jdbc:mysql://monorail.proxy.rlwy.net:32909/railway
+    url: jdbc:mysql://monorail.proxy.rlwy.net:30514/railway
     username: root
-    password: CvyfsHnQrtoPJlWjqRCDlwbZoRCOGkVR
+    password: NHXVOcDwCPXIuHiCdTozxVDDshTcXnaz
   jpa:
     hibernate:
       ddl-auto: update
