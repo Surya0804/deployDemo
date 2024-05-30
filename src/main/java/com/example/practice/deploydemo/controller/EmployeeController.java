@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 @RestController
-@CrossOrigin(origins = "https://beamish-unicorn-03269b.netlify.app/")
+@CrossOrigin(origins = "https://angulardeploydemo.onrender.com/")
 public class EmployeeController {
 
     @Autowired
